@@ -6,9 +6,9 @@
 >>  une méthode wtf_pyramid
 
 > <h4>Programme 2 : Mon petit mot de passe</h4>
->> une partie signup, demandant à l'utilisateur de définir un mot de passe
->> une partie login, demandant à l'utilisateur de rentrer son mot de passe jusqu'à ce qu'il corresponde à celui défini précédemment
->> une partie welcome_screen, affichant un écran de bienvenue avec des informations top secrètes de la NSA
+p une partie signup, demandant à l'utilisateur de définir un mot de passe
+p une partie login, demandant à l'utilisateur de rentrer son mot de passe jusqu'à ce qu'il corresponde à celui défini précédemment
+p une partie welcome_screen, affichant un écran de bienvenue avec des informations top secrètes de la NSA
 
 > <h4>Programme 3 : 6ème sans ascenseur</h4>
 >> Le programme lance une partie. Le joueur est tout en bas d'un escalier à 10 marches, et à chaque tour il va lancer un dé :
